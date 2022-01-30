@@ -1,0 +1,44 @@
+[
+  {
+    "id": "00",
+    "name": "Primary Care",
+    "purpose": "Consulting",
+    "img": "https://i.ibb.co/mtynym0/kindpng-6681207.png",
+    "Description": ""
+  },
+  {
+    "id": "01",
+    "name": "General Health",
+    "purpose": "Diagnostic, tests",
+    "img": "https://i.ibb.co/qx5qJHZ/kindpng-11281.png",
+    "Description": ""
+  },
+  {
+    "id": "02",
+    "name": "Pediatrics",
+    "purpose": "Pediatric specialty care",
+    "img": "https://i.ibb.co/T4wY6Hw/kindpng-2574262.png",
+    "Description": ""
+  },
+  {
+    "id": "03",
+    "name": "Physical Theraphy",
+    "purpose": "Rehabilitation services",
+    "img": "https://i.ibb.co/nDmsg2Y/1000-F-269645659-Aoyv-KF9-SAh7-OLxbd-NOfoo1dz-S3byq-WZr.jpg",
+    "Description": ""
+  },
+  {
+    "id": "04",
+    "name": "Dental Care",
+    "purpose": "Orthodontics",
+    "img": "https://i.ibb.co/ZLsQtkZ/993333.png",
+    "Description": ""
+  },
+  {
+    "id": "05",
+    "name": "Eye Care",
+    "purpose": "Prescription services​",
+    "img": "https://i.ibb.co/y64VzwZ/realistic-3d-eye-animal-cat-99660-107.jpg",
+    "Description": ""
+  }
+]

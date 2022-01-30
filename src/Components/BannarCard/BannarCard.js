@@ -9,7 +9,7 @@ import "./BannarCard.css";
 
 const BannarCard = () => {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 border border-warning">
       <div className="row bannarCard">
         <div className=" d-flex justify-content-center align-items-center text-center ">
           <div className="col-md-4">
@@ -59,11 +59,11 @@ const BannarCard = () => {
                   title="Services"
                   id="input-group-dropdown-1"
                 >
-                  <Dropdown.Item href="#">alick</Dropdown.Item>
-                  <Dropdown.Item href="#">joe</Dropdown.Item>
-                  <Dropdown.Item href="#">koddos</Dropdown.Item>
+                  <Dropdown.Item href="#">Medical cit</Dropdown.Item>
+                  <Dropdown.Item href="#">Ambulance</Dropdown.Item>
+                  <Dropdown.Item href="#">Child Care</Dropdown.Item>
                   <Dropdown.Divider />
-                  <Dropdown.Item href="#">shamim</Dropdown.Item>
+                  <Dropdown.Item href="#">Mother Care</Dropdown.Item>
                 </DropdownButton>
                 <FormControl aria-label="Text input with dropdown button" />
               </InputGroup>{" "}
